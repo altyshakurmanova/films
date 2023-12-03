@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+li img{
+    width: 200px;
+}
+
+body {
+    font-family: sans-serif;
+ }
+header img{
+    width: 100px; height: 70px; 
+} 
+header{
+    background-color:rgb(95, 7, 7);
+    border-radius: 10px; 
+} 
+header p{
+    font-size: 23px;
+    font-family: fantasy;
+    padding: 10px;
+    border-bottom: 4px double black;
+}
+nav{
+    font-size: 20px;
+    text-align: center; 
+}
+nav a{
+    color:black; 
+    font-family: inherit; 
+} 
+footer{ 
+    background-color: white;
+} 
+footer p{ 
+    background-color: rgb(95, 7, 7); 
+    padding:9px;
+    font-size:15px; 
+    font-family: monospace;
+}
