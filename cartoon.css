@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+    width: 100px;
+    height: 70px;
+
+}
+header{
+    background-color:rgb(95, 7, 7);
+    border-radius: 10px;
+}
+header p{
+    font-size: 23px;
+    font-family: fantasy;
+    padding: 10px;
+    border-bottom: 4px double black;
+}
+nav{
+    font-size: 20px;
+    text-align: center;
+}
+nav a{
+    color:black;
+    font-family: inherit;
+
+}
+footer{
+    background-color: white;
+}
+
+footer p{
+    background-color: rgb(95, 7, 7);
+    padding:9px;
+    font-size:15px;
+    font-family: monospace;
+}
+
+h1{
+   color:blueviolet;
+   text-align: center;
+}
+.mult{
+    width:600px;
+}
+main a{
+    font-size: 20px;
+    text-align: center;
+    margin:10px;
+    color:blueviolet;
+}
+.shrek{
+    text-align: left;
+    height:250px;
+}
+.rataty{
+    height: 250px;
+}
+main{
+    background-color: black;
+}
+details{
+    color:white;
+}
+h2{
+    color:rgb(95, 7, 7);
+    margin:15px;
+}
+.monstr{
+    height:250px;
+}
+.lorax{
+    height:250px;
+}
+.walle{
+    height:250px;
+}
+.ariet{
+    height:250px;
+}
+.koko{
+    height:250px;
+}
+.lisa{
+    height:250px;
+}
+.lev{
+    height:250px;
+}
+
+main p{
+    color:white;
+}
