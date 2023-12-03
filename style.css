@@ -1,0 +1,32 @@
+main{
+    color: rgba(173, 24, 24, 0.829);
+    background-color: rgba(233, 151, 151, 0.267);
+    
+   
+}
+.bgcolor{
+    background-color:#ee747473;
+    border: 3px solid rgb(148, 20, 20);
+    border-radius: 5px;
+    margin: 4px;
+    padding: 5px;
+    text-align: center;
+}
+main img{
+    width:200px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body { font-family: sans-serif; } header img{ width: 100px; height: 70px; } header{ background-color:rgb(95, 7, 7); border-radius: 10px; } header p{ font-size: 23px; font-family: fantasy; padding: 10px; border-bottom: 4px double black; } nav{ font-size: 20px; text-align: center; } nav a{ color:black; font-family: inherit; } footer{ background-color: white; } footer p{ background-color: rgb(95, 7, 7); padding:9px; font-size:15px; font-family: monospace; }
